@@ -8,9 +8,9 @@
     },
     {
       "projectID": 559312,
-      "fileID": 7505476,
-      "url": "https://mediafilez.forgecdn.net/files/7505/476/easy_npc_bundle-neoforge-1.21.1-6.7.1.jar",
-      "fileName": "easy_npc_bundle-neoforge-1.21.1-6.7.1.jar"
+      "fileID": 7645540,
+      "url": "https://mediafilez.forgecdn.net/files/7645/540/easy_npc_bundle-forge-1.20.1-6.8.3.jar",
+      "fileName": "easy_npc_bundle-forge-1.20.1-6.8.3.jar"
     },
     {
       "projectID": 1134366,
@@ -20,15 +20,15 @@
     },
     {
       "projectID": 925572,
-      "fileID": 6177352,
-      "url": "https://mediafilez.forgecdn.net/files/6177/352/%5B1.21.1%5D%20Simply%20Light%20Sources%20v1.3.0%20%28NeoForge%29.jar",
-      "fileName": "[1.21.1] Simply Light Sources v1.3.0 (NeoForge).jar"
+      "fileID": 6954367,
+      "url": "https://mediafilez.forgecdn.net/files/6954/367/%5B1.20.1%5D%20Simply%20Light%20Sources%20v1.3.0%20%28Forge%29.jar",
+      "fileName": "[1.20.1] Simply Light Sources v1.3.0 (Forge).jar"
     },
     {
       "projectID": 448233,
-      "fileID": 7396695,
-      "url": "https://mediafilez.forgecdn.net/files/7396/695/entityculling-neoforge-1.9.5-mc1.21.1.jar",
-      "fileName": "entityculling-neoforge-1.9.5-mc1.21.1.jar"
+      "fileID": 7396677,
+      "url": "https://mediafilez.forgecdn.net/files/7396/677/entityculling-forge-1.9.5-mc1.20.1.jar",
+      "fileName": "entityculling-forge-1.9.5-mc1.20.1.jar"
     },
     {
       "projectID": 433760,
@@ -50,9 +50,9 @@
     },
     {
       "projectID": 521480,
-      "fileID": 7322374,
-      "url": "https://mediafilez.forgecdn.net/files/7322/374/skinlayers3d-neoforge-1.10.1-mc1.21.1.jar",
-      "fileName": "skinlayers3d-neoforge-1.10.1-mc1.21.1.jar"
+      "fileID": 7668920,
+      "url": "https://mediafilez.forgecdn.net/files/7668/920/skinlayers3d-forge-1.10.2-mc1.20.1.jar",
+      "fileName": "skinlayers3d-forge-1.10.2-mc1.20.1.jar"
     },
     {
       "projectID": 1349426,
@@ -62,9 +62,9 @@
     },
     {
       "projectID": 883166,
-      "fileID": 6197610,
-      "url": "https://mediafilez.forgecdn.net/files/6197/610/Stellarity-3.0.6.1.jar",
-      "fileName": "Stellarity-3.0.6.1.jar"
+      "fileID": 4714310,
+      "url": "https://mediafilez.forgecdn.net/files/4714/310/Stellarity-v2-0e.jar",
+      "fileName": "Stellarity-v2-0e.jar"
     }
   ]
 }
