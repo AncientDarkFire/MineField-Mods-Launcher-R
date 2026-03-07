@@ -65,6 +65,30 @@
       "fileID": 4714310,
       "url": "https://mediafilez.forgecdn.net/files/4714/310/Stellarity-v2-0e.jar",
       "fileName": "Stellarity-v2-0e.jar"
+    },
+    {
+      "projectID": 1021783,
+      "fileID": 5388398,
+      "url": "https://mediafilez.forgecdn.net/files/5388/398/realmrpg_quests-0.1.1-forge-1.20.1.jar",
+      "fileName": "realmrpg_quests-0.1.1-forge-1.20.1.jar"
+    },
+    {
+      "projectID": 1030285,
+      "fileID": 5696829,
+      "url": "https://mediafilez.forgecdn.net/files/5696/829/fastboot-1.20.x-1.2.jar",
+      "fileName": "fastboot-1.20.x-1.2.jar"
+    },
+    {
+      "projectID": 1113228,
+      "fileID": 7560192,
+      "url": "https://mediafilez.forgecdn.net/files/7560/192/u_sea-1.2.5%2Bmc1.19-1.21.11.jar",
+      "fileName": "u_sea-1.2.5+mc1.19-1.21.11.jar"
+    },
+    {
+      "projectID": 960356,
+      "fileID": 6792605,
+      "url": "u_desert-1.6.3+mc1.19-1.21.8.jar",
+      "fileName": "https://mediafilez.forgecdn.net/files/6792/605/u_desert-1.6.3%2Bmc1.19-1.21.8.jar"
     }
   ]
 }
