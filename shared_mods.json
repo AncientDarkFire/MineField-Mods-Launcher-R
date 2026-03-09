@@ -91,8 +91,9 @@
       "fileName": "u_desert-1.6.3+mc1.19-1.21.8.jar"
     },
     {
-      "projectID": 664719,
-      "fileID": 7564643,
+      "projectID": 282001,
+      "fileID": "5F5BaGQ4",
+      "forceadd": true,
       "url": "https://cdn.modrinth.com/data/gu7yAYhd/versions/5F5BaGQ4/cc-tweaked-1.20.1-forge-1.117.1.jar",
       "fileName": "cc-tweaked-1.20.1-forge-1.117.1.jar"
     }
