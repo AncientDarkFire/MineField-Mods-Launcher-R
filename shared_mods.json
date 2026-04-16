@@ -93,7 +93,7 @@
     {
       "projectID": 282001,
       "fileID": "5F5BaGQ4",
-      "forceadd": true,
+      "forceadd": false,
       "url": "https://cdn.modrinth.com/data/gu7yAYhd/versions/5F5BaGQ4/cc-tweaked-1.20.1-forge-1.117.1.jar",
       "fileName": "cc-tweaked-1.20.1-forge-1.117.1.jar"
     }
