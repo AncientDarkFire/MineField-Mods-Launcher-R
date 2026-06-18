@@ -25,6 +25,12 @@
       "fileName": "LCVP_CreateStyle_v1.7.zip"
     },
     {
+      "projectID": 923238,
+      "fileID": 8156977,
+      "url": "https://mediafilez.forgecdn.net/files/8156/977/Design-n-Decor-1.21.1-2.2b.jar",
+      "fileName": "Design-n-Decor-1.21.1-2.2b.jar"
+    },
+    {
       "projectID": 970038,
       "fileID": 8169417,
       "url": "https://mediafilez.forgecdn.net/files/8169/417/DoubleJump-v4.0_MOD.jar",
@@ -32,15 +38,15 @@
     },
     {
       "projectID": 559312,
-      "fileID": 8233504,
-      "url": "https://mediafilez.forgecdn.net/files/8233/504/easy_npc_bundle-neoforge-1.21.1-6.19.0.jar",
-      "fileName": "easy_npc_bundle-neoforge-1.21.1-6.19.0.jar"
+      "fileID": 8250316,
+      "url": "https://mediafilez.forgecdn.net/files/8250/316/easy_npc_bundle-neoforge-1.21.1-6.20.0.jar",
+      "fileName": "easy_npc_bundle-neoforge-1.21.1-6.20.0.jar"
     },
     {
       "projectID": 448233,
-      "fileID": 8053771,
-      "url": "https://mediafilez.forgecdn.net/files/8053/771/entityculling-neoforge-1.10.2-mc1.21.1.jar",
-      "fileName": "entityculling-neoforge-1.10.2-mc1.21.1.jar"
+      "fileID": 8259604,
+      "url": "https://mediafilez.forgecdn.net/files/8259/604/entityculling-neoforge-1.10.3-mc1.21.1.jar",
+      "fileName": "entityculling-neoforge-1.10.3-mc1.21.1.jar"
     },
     {
       "projectID": 1030285,
@@ -83,12 +89,6 @@
       "fileID": 7736950,
       "url": "https://mediafilez.forgecdn.net/files/7736/950/tinysoldiers-neoforge-1.0.2%2Bmc1.21.1.jar",
       "fileName": "tinysoldiers-neoforge-1.0.2+mc1.21.1.jar"
-    },
-    {
-      "projectID": 923238,
-      "fileID": 8156977,
-      "url": "https://mediafilez.forgecdn.net/files/8156/977/Design-n-Decor-1.21.1-2.2b.jar",
-      "fileName": "Design-n-Decor-1.21.1-2.2b.jar"
     }
   ]
 }
