@@ -89,6 +89,14 @@
       "fileID": 7736950,
       "url": "https://mediafilez.forgecdn.net/files/7736/950/tinysoldiers-neoforge-1.0.2%2Bmc1.21.1.jar",
       "fileName": "tinysoldiers-neoforge-1.0.2+mc1.21.1.jar"
+    },
+    {
+      "projectID": 401458,
+      "url": "https://mediafilez.forgecdn.net/files/6503/708/Nobushleaves.zip",
+      "fileName": "Nobushleaves.zip",
+      "modName": "Nobushleaves",
+      "forceadd": true,
+      "class": "resourcepacks"
     }
   ]
 }
